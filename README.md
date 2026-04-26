@@ -29,3 +29,6 @@ Mamaearth’s current D2C model relies heavily on digital advertising (53% of re
 - Microsoft Excel (Screener.in data)
 - Data Visualization & Strategic Frameworks (SWOT, PESTLE)
 - PowerPoint for consulting-style presentation
+
+## 📎 Project Deck  
+[Mamaearth Strategy PPT](./Mamaearth_Tier2_Strategy_Consultant.pptx)
